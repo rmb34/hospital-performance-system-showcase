@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository documents the architecture and technical decisions behind a hospital performance management system I've been developing and maintaining for the past 5 years as part of my work at NCI Innova.
+This repository documents the architecture and technical decisions behind a hospital performance management system I developed and maintained for 5 years (2021–2026) at NCI Innova.
 
 The system has been running in production for **10+ years**, serving hospital institutions with compliance requirements aligned to Brazilian federal healthcare regulations and integration with national public health data infrastructure.
 
@@ -31,7 +31,7 @@ A comprehensive platform for monitoring and managing hospital performance indica
 | Layer | Technology |
 |---|---|
 | Language | Java 8 |
-| Framework | Spring Boot 3.2 + Spring Framework |
+| Framework | Spring Framework + Spring Boot |
 | Security | Spring Security |
 | Database | PostgreSQL |
 | API | Public REST API for third-party consumption |
@@ -69,7 +69,7 @@ Building reporting and data management features compliant with Brazilian federal
 
 ## My Involvement
 
-Over the past 5 years I've been involved in every layer of the system:
+Over 5 years I was involved in every layer of the system:
 
 - Gathering and refining client requirements
 - Backend development and module evolution in Java / Spring Boot
@@ -86,5 +86,5 @@ Over the past 5 years I've been involved in every layer of the system:
 ## Author
 
 **Lucas da Silva Santos**
-Full Stack Developer at NCI Innova
+Full Stack Developer
 [LinkedIn](https://linkedin.com/in/lucas-da-silva-santos-a46879285)
